@@ -43,11 +43,11 @@ Screen Mirroring Cast to TV Chromecast provides a unique and incredibly useful e
 
 ### UI/UX
 
-![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+1)
-![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+2)
-![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+3)
-![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+4)
-![Screenshot 5](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+5)
+![Screenshot 1](https://play-lh.googleusercontent.com/KzH1y_6dRCxVjNJOytKTaAu7wohA0EDQ6yEyxo-OOtCdn6cDfLP-D-j2tmPAkOdiyi0=w2560-h1440-rw)
+![Screenshot 2](https://play-lh.googleusercontent.com/JHjCmzOSZ1heWZUHZQJoMTxMjNDCTZDN-NNH41TGuWU21s75OHm0GkB6XybEq107tyHw=w2560-h1440-rw)
+![Screenshot 3](https://play-lh.googleusercontent.com/I4F5qshdl074GM6JGFl5iw32Qr87ZJwTHvoVydDWg3IrgC03hmw9qzzop0zN6m9gUAM=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/HXJ230hAPNQ1dzwsp95pYn8BEtBmpjYA_CraLRlmk_rSfbV3SK-VBARBsXOHrVk0hkk=w2560-h1440-rw)
+![Screenshot 5](https://play-lh.googleusercontent.com/kh5p1yxP12i4cVI9AJUkd2FtujI7dH4GxWhNb7_6Mj3dAJtU1BYsDhnbOvs9SV41ISY=w2560-h1440-rw)
 
 ### Code Structure
 
